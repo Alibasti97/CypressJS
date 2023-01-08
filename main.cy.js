@@ -111,9 +111,9 @@ describe("TryTestingThis", function(){
 
 
 
-    // it("18. Click Submit", function(){
-    //     cy.xpath("/html/body/div[3]/div[2]/form/fieldset/button").click()
-    // })
+    it("18. Click Submit", function(){
+        cy.xpath("/html/body/div[3]/div[2]/form/fieldset/button").click()
+    })
 
 
     })
